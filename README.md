@@ -52,6 +52,8 @@ Banking-Transaction-Analytics/
 ## Dashboard
 
 The Power BI dashboard includes transaction type, transaction amount by channel, average amount by occupation, top locations by transaction count, and login attempts analysis.
+![Banking Transaction Analytics Dashboard](visuals/banking_dashboard.png)
+
 
 ## Disclaimer
 
